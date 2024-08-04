@@ -11,7 +11,7 @@ curl --proto '=https' --tlsv1.2 -sSf https://docs.swmansion.com/scarb/install.sh
 
 ###Verify the installation 
 After installing Scarb, verify the installation by running: ``` bash
-scarb --version
+scarb --version```
 
 Ensure you have vs code installed in your machine.
 
@@ -21,10 +21,10 @@ Navigate to `src/lib.cairo` file, which contains the code.
 Start a new terminal.
 
 Building the Project
-To build the project, run the following command: ``` bash ```
-scarb build
+To build the project, run the following command: ``` bash 
+scarb build```
 
 Running the Project
 To run the project use the following command: ``` bash 
-scarb cairo-run
+scarb cairo-run```
 
