@@ -21,7 +21,7 @@ Navigate to `src/lib.cairo` file, which contains the code.
 Start a new terminal.
 
 Building the Project
-To build the project, run the following command: ``` bash 
+To build the project, run the following command: ``` bash ```
 scarb build
 
 Running the Project
